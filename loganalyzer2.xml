@@ -4,7 +4,7 @@
         <title>📊 日志分析报告 | 成功率 100.00% | 文件 10 | 执行 10</title>
         <link>file:///Users/yudongze/Documents/logFile</link>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 19 Mar 2026 10:17:41 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 10:27:05 +0800</lastBuildDate>
         <generator>LogAnalyzer</generator>
         <description>
 &lt;![CDATA[
@@ -34,7 +34,7 @@
                 &lt;td style="padding: 10px; text-align: center; font-size: 24px;"&gt;&lt;strong&gt;100.00%&lt;/strong&gt;&lt;/td&gt;
             &lt;/tr&gt;
         &lt;/table&gt;
-        &lt;p style="margin: 10px 0 0 0; opacity: 0.8; font-size: 12px;"&gt;分析时间: 2026-03-19 10:17:41&lt;/p&gt;
+        &lt;p style="margin: 10px 0 0 0; opacity: 0.8; font-size: 12px;"&gt;分析时间: 2026-03-19 10:27:05&lt;/p&gt;
     &lt;/div&gt;
 
     &lt;!-- 各日志文件详情 --&gt;
