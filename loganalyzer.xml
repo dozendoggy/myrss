@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LogAnalysisReport>
+    <Summary>
+        <AnalysisTime>2026-03-19 10:05:57</AnalysisTime>
+        <LogDirectory>/Users/yudongze/Documents/logFile</LogDirectory>
+        <TotalLogFiles>10</TotalLogFiles>
+        <TotalExecutions>10</TotalExecutions>
+        <TotalSuccess>10</TotalSuccess>
+        <TotalFailed>0</TotalFailed>
+        <SuccessRate>100.00%</SuccessRate>
+    </Summary>
+    <LogFiles>
+        <LogFile>
+            <FileName>pornlog_18059.log</FileName>
+            <FilePath>/Users/yudongze/Documents/logFile/pornlog_18059.log</FilePath>
+            <TotalExecutions>1</TotalExecutions>
+            <SuccessExecutions>1</SuccessExecutions>
+            <FailedExecutions>0</FailedExecutions>
+            <Executions>
+                <Execution index="1">
+                    <Status>success</Status>
+                </Execution>
+            </Executions>
+        </LogFile>
+        <LogFile>
+            <FileName>pornlog_18257.log</FileName>
+            <FilePath>/Users/yudongze/Documents/logFile/pornlog_18257.log</FilePath>
+            <TotalExecutions>1</TotalExecutions>
+            <SuccessExecutions>1</SuccessExecutions>
+            <FailedExecutions>0</FailedExecutions>
+            <Executions>
+                <Execution index="1">
+                    <Status>success</Status>
+                </Execution>
+            </Executions>
+        </LogFile>
+        <LogFile>
+            <FileName>pornlog_18566.log</FileName>
+            <FilePath>/Users/yudongze/Documents/logFile/pornlog_18566.log</FilePath>
+            <TotalExecutions>1</TotalExecutions>
+            <SuccessExecutions>1</SuccessExecutions>
+            <FailedExecutions>0</FailedExecutions>
+            <Executions>
+                <Execution index="1">
+                    <Status>success</Status>
+                </Execution>
+            </Executions>
+        </LogFile>
+        <LogFile>
+            <FileName>pornlog_18787.log</FileName>
+            <FilePath>/Users/yudongze/Documents/logFile/pornlog_18787.log</FilePath>
+            <TotalExecutions>1</TotalExecutions>
+            <SuccessExecutions>1</SuccessExecutions>
+            <FailedExecutions>0</FailedExecutions>
+            <Executions>
+                <Execution index="1">
+                    <Status>success</Status>
+                </Execution>
+            </Executions>
+        </LogFile>
+        <LogFile>
+            <FileName>pornlog_19302.log</FileName>
+            <FilePath>/Users/yudongze/Documents/logFile/pornlog_19302.log</FilePath>
+            <TotalExecutions>1</TotalExecutions>
+            <SuccessExecutions>1</SuccessExecutions>
+            <FailedExecutions>0</FailedExecutions>
+            <Executions>
+                <Execution index="1">
+                    <Status>success</Status>
+                </Execution>
+            </Executions>
+        </LogFile>
+        <LogFile>
+            <FileName>pornlog_50973.log</FileName>
+            <FilePath>/Users/yudongze/Documents/logFile/pornlog_50973.log</FilePath>
+            <TotalExecutions>1</TotalExecutions>
+            <SuccessExecutions>1</SuccessExecutions>
+            <FailedExecutions>0</FailedExecutions>
+            <Executions>
+                <Execution index="1">
+                    <Status>success</Status>
+                </Execution>
+            </Executions>
+        </LogFile>
+        <LogFile>
+            <FileName>pornlog_53936.log</FileName>
+            <FilePath>/Users/yudongze/Documents/logFile/pornlog_53936.log</FilePath>
+            <TotalExecutions>1</TotalExecutions>
+            <SuccessExecutions>1</SuccessExecutions>
+            <FailedExecutions>0</FailedExecutions>
+            <Executions>
+                <Execution index="1">
+                    <Status>success</Status>
+                </Execution>
+            </Executions>
+        </LogFile>
+        <LogFile>
+            <FileName>pornlog_54829.log</FileName>
+            <FilePath>/Users/yudongze/Documents/logFile/pornlog_54829.log</FilePath>
+            <TotalExecutions>1</TotalExecutions>
+            <SuccessExecutions>1</SuccessExecutions>
+            <FailedExecutions>0</FailedExecutions>
+            <Executions>
+                <Execution index="1">
+                    <Status>success</Status>
+                </Execution>
+            </Executions>
+        </LogFile>
+        <LogFile>
+            <FileName>pornlog_56837.log</FileName>
+            <FilePath>/Users/yudongze/Documents/logFile/pornlog_56837.log</FilePath>
+            <TotalExecutions>1</TotalExecutions>
+            <SuccessExecutions>1</SuccessExecutions>
+            <FailedExecutions>0</FailedExecutions>
+            <Executions>
+                <Execution index="1">
+                    <Status>success</Status>
+                </Execution>
+            </Executions>
+        </LogFile>
+        <LogFile>
+            <FileName>pornlog_57788.log</FileName>
+            <FilePath>/Users/yudongze/Documents/logFile/pornlog_57788.log</FilePath>
+            <TotalExecutions>1</TotalExecutions>
+            <SuccessExecutions>1</SuccessExecutions>
+            <FailedExecutions>0</FailedExecutions>
+            <Executions>
+                <Execution index="1">
+                    <Status>success</Status>
+                </Execution>
+            </Executions>
+        </LogFile>
+    </LogFiles>
+</LogAnalysisReport>
