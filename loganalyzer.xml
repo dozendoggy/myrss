@@ -3,33 +3,33 @@
   <channel>
     <title>日志分析报告 - 成功率 100.0%</title>
     <link>file:///Users/yudongze/Documents/logFile</link>
-    <description>日志目录：/Users/yudongze/Documents/logFile | 分析时间：2026-03-19 13:40:03 | 文件数：12 | 总执行次数：0</description>
+    <description>日志目录：/Users/yudongze/Documents/logFile | 分析时间：2026-03-19 13:46:20 | 文件数：12 | 总执行次数：0</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 19 Mar 2026 13:40:03 GMT</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2026 13:40:03 GMT</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 13:46:20 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 13:46:20 GMT</lastBuildDate>
     <generator>Log Analyzer v1.0</generator>
-    <atom:link href="file:///Users/yudongze/Documents/logFile/analysis_rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="file:///Users/yudongze/Documents/logFile/loganalyzer.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>日志分析汇总 - 2026-03-19 13:40:03</title>
-      <link>file:///Users/yudongze/Documents/logFile/analysis_rss.xml</link>
-      <guid>log-summary-1773898803</guid>
-      <pubDate>Thu, 19 Mar 2026 13:40:03 GMT</pubDate>
+      <title>日志分析汇总 - 2026-03-19 13:46:20</title>
+      <link>file:///Users/yudongze/Documents/logFile/loganalyzer.xml</link>
+      <guid>log-summary-1773899180</guid>
+      <pubDate>Thu, 19 Mar 2026 13:46:20 GMT</pubDate>
       <description>&lt;![CDATA[
-    &lt;div style="font-family: Arial, sans-serif; line-height: 1.6;"&gt;
+    &lt;div style=&quot;font-family: Arial, sans-serif; line-height: 1.6;&quot;&gt;
         &lt;h3&gt;📊 全局统计&lt;/h3&gt;
-        &lt;table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;"&gt;
-            &lt;tr style="background-color: #f0f0f0;"&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;8&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr style=&quot;background-color: #f0f0f0;&quot;&gt;
                 &lt;th&gt;统计项&lt;/th&gt;&lt;th&gt;数值&lt;/th&gt;
             &lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;日志文件总数&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;总执行次数&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;成功次数&lt;/td&gt;&lt;td style="color: green;"&gt;0&lt;/td&gt;&lt;/tr&gt;
-            &lt;tr&gt;&lt;td&gt;失败次数&lt;/td&gt;&lt;td style="color: red;"&gt;0&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;成功次数&lt;/td&gt;&lt;td style=&quot;color: green;&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;失败次数&lt;/td&gt;&lt;td style=&quot;color: red;&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;
             &lt;tr&gt;&lt;td&gt;成功率&lt;/td&gt;&lt;td&gt;100.0%&lt;/td&gt;&lt;/tr&gt;
         &lt;/table&gt;
         &lt;h3&gt;📄 各文件详情&lt;/h3&gt;
-        &lt;table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;"&gt;
-            &lt;tr style="background-color: #f0f0f0;"&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;8&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr style=&quot;background-color: #f0f0f0;&quot;&gt;
                 &lt;th&gt;文件名&lt;/th&gt;&lt;th&gt;总执行&lt;/th&gt;&lt;th&gt;成功&lt;/th&gt;&lt;th&gt;失败&lt;/th&gt;&lt;th&gt;状态&lt;/th&gt;
             &lt;/tr&gt;
             &lt;tr&gt;
@@ -117,7 +117,7 @@
                 &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
             &lt;/tr&gt;
         &lt;/table&gt;
-        &lt;p style="font-size: 0.9em; color: #666;"&gt;报告生成时间：2026-03-19 13:40:03&lt;/p&gt;
+        &lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;报告生成时间：2026-03-19 13:46:20&lt;/p&gt;
     &lt;/div&gt;
     ]]&gt;</description>
     </item>
