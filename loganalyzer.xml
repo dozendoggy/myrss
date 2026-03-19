@@ -1,19 +1,137 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>日志分析报告 - 成功率 100.0%</title>
-    <link>/Users/yudongze/Documents/logFile</link>
-    <description>日志分析汇总 - 文件:10 执行:10 成功:10 失败:0</description>
-    <language>zh-cn</language>
-    <lastBuildDate>Thu, 19 Mar 2026 10:57:39 +0800</lastBuildDate>
-    <generator>LogAnalyzer</generator>
-    <atom:link href="file:///Users/yudongze/Documents/logFile/loganalyzer.xml" rel="self" type="application/rss+xml"/>
+    <link>file:///Users/yudongze/Documents/logFile</link>
+    <description>日志目录：/Users/yudongze/Documents/logFile | 分析时间：2026-03-19 13:34:45 | 文件数：12 | 总执行次数：0</description>
+    <language>zh-CN</language>
+    <pubDate>Thu, 19 Mar 2026 13:34:45 GMT</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 13:34:45 GMT</lastBuildDate>
+    <generator>Log Analyzer v1.0</generator>
+    <atom:link href="file:///Users/yudongze/Documents/logFile/log_analysis_rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>📊 汇总: 成功率 100.0% | 文件:10 | 执行:10</title>
-      <link>/Users/yudongze/Documents/logFile</link>
-      <guid isPermaLink="false">summary-2026-03-19-105739</guid>
-      <pubDate>Thu, 19 Mar 2026 10:57:39 +0800</pubDate>
-      <description><![CDATA[<html><body><h2>📈 日志分析汇总</h2><ul><li><strong>日志文件数:</strong> 10</li><li><strong>总执行次数:</strong> 10</li><li><strong>成功执行:</strong> 10</li><li><strong>失败执行:</strong> 0</li><li><strong>成功率:</strong> 100.0%</li></ul><hr/><h3>📁 日志文件详情</h3><p><strong>1. pornlog_18059.log</strong><br/>路径: /Users/yudongze/Documents/logFile/pornlog_18059.log<br/>执行: 1 | 成功: 1 | 失败: 0</p><p><strong>2. pornlog_18257.log</strong><br/>路径: /Users/yudongze/Documents/logFile/pornlog_18257.log<br/>执行: 1 | 成功: 1 | 失败: 0</p><p><strong>3. pornlog_18566.log</strong><br/>路径: /Users/yudongze/Documents/logFile/pornlog_18566.log<br/>执行: 1 | 成功: 1 | 失败: 0</p><p><strong>4. pornlog_18787.log</strong><br/>路径: /Users/yudongze/Documents/logFile/pornlog_18787.log<br/>执行: 1 | 成功: 1 | 失败: 0</p><p><strong>5. pornlog_19302.log</strong><br/>路径: /Users/yudongze/Documents/logFile/pornlog_19302.log<br/>执行: 1 | 成功: 1 | 失败: 0</p><p><strong>6. pornlog_50973.log</strong><br/>路径: /Users/yudongze/Documents/logFile/pornlog_50973.log<br/>执行: 1 | 成功: 1 | 失败: 0</p><p><strong>7. pornlog_53936.log</strong><br/>路径: /Users/yudongze/Documents/logFile/pornlog_53936.log<br/>执行: 1 | 成功: 1 | 失败: 0</p><p><strong>8. pornlog_54829.log</strong><br/>路径: /Users/yudongze/Documents/logFile/pornlog_54829.log<br/>执行: 1 | 成功: 1 | 失败: 0</p><p><strong>9. pornlog_56837.log</strong><br/>路径: /Users/yudongze/Documents/logFile/pornlog_56837.log<br/>执行: 1 | 成功: 1 | 失败: 0</p><p><strong>10. pornlog_57788.log</strong><br/>路径: /Users/yudongze/Documents/logFile/pornlog_57788.log<br/>执行: 1 | 成功: 1 | 失败: 0</p><p><em>分析时间: 2026-03-19 10:57:39</em></p></body></html>]]></description>
+      <title>日志分析汇总 - 2026-03-19 13:34:45</title>
+      <link>file:///Users/yudongze/Documents/logFile/log_analysis_rss.xml</link>
+      <guid>log-summary-1773898485</guid>
+      <pubDate>Thu, 19 Mar 2026 13:34:45 GMT</pubDate>
+      <description>&lt;![CDATA[
+    &lt;div style=&quot;font-family: Arial, sans-serif; line-height: 1.6;&quot;&gt;
+        &lt;h3&gt;📊 全局统计&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;8&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr style=&quot;background-color: #f0f0f0;&quot;&gt;
+                &lt;th&gt;统计项&lt;/th&gt;&lt;th&gt;数值&lt;/th&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;日志文件总数&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;总执行次数&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;成功次数&lt;/td&gt;&lt;td style=&quot;color: green;&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;失败次数&lt;/td&gt;&lt;td style=&quot;color: red;&quot;&gt;0&lt;/td&gt;&lt;/tr&gt;
+            &lt;tr&gt;&lt;td&gt;成功率&lt;/td&gt;&lt;td&gt;100.0%&lt;/td&gt;&lt;/tr&gt;
+        &lt;/table&gt;
+        &lt;h3&gt;📄 各文件详情&lt;/h3&gt;
+        &lt;table border=&quot;1&quot; cellpadding=&quot;8&quot; cellspacing=&quot;0&quot; style=&quot;border-collapse: collapse; width: 100%;&quot;&gt;
+            &lt;tr style=&quot;background-color: #f0f0f0;&quot;&gt;
+                &lt;th&gt;文件名&lt;/th&gt;&lt;th&gt;总执行&lt;/th&gt;&lt;th&gt;成功&lt;/th&gt;&lt;th&gt;失败&lt;/th&gt;&lt;th&gt;状态&lt;/th&gt;&lt;th&gt;日志预览&lt;/th&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;movielog_nowplaying_local.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 11:31:00&lt;br&gt;随机等待了 7.15 秒&lt;br&gt;['呼啸山庄', '非穷尽列举', '洛杉矶劫案', '奇迹梦之队', '哀牢山', '镖人：风起大漠', '拼桌', '夜王', '飞驰人生3', '惊蛰无声', '暗黑新娘！', '星河入梦', '熊猫计划之部落奇遇记', '东北警察故事3', '熊出没·年年有熊', '极限审判', '闪灵', '神头岭1938', '熊猫奇遇记', '重返寂静岭', '疯狂动物城2', '爱乐之城', '喜欢上“欠欠”的你', '阿凡达：火与烬', '翠湖', '上学路上之山海无阻', '团圆令', '重返·狼群', '凯...&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;movielog_nowplayingmovie.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 11:01:02&lt;br&gt;['呼啸山庄', '非穷尽列举', '洛杉矶劫案', '奇迹梦之队', '哀牢山', '镖人：风起大漠', '拼桌', '夜王', '飞驰人生3', '惊蛰无声', '暗黑新娘！', '星河入梦', '熊猫计划之部落奇遇记', '熊出没·年年有熊', '闪灵', '熊猫奇遇记', '重返寂静岭', '疯狂动物城2', '爱乐之城', '喜欢上“欠欠”的你', '爆水管', '阿凡达：火与烬', '团圆令', '重返·狼群']&lt;br&gt;[36963690, 37293378, 36901008, 36910970, 37669363, 364740...&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;pornlog_18059.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 07:05:01&lt;br&gt;库中没有dass-912的磁力链接&lt;br&gt;库中没有ppbd-318的磁力链接&lt;br&gt;ID hmn-812 已存在，跳过网页获取&lt;br&gt;ID hmn-812 已存在，从数据库获取&lt;br&gt;库中没有jfb-501的磁力链接&lt;br&gt;库中没有bmw-354的磁力链接&lt;br&gt;库中没有bmw-353的磁力链接&lt;br&gt;ID waaa-624 已存在，跳过网页获取&lt;br&gt;ID waaa-624 已存在，从数据库获取&lt;br&gt;ID dass-875 已存在，跳过网页获取&lt;br&gt;ID dass-875 已存在，从数据库获取&lt;br&gt;ID dass-781 已存在，跳过网页获取&lt;br&gt;ID dass-781 已存在，从数据库获取&lt;br&gt;库中没...&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;pornlog_18257.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 07:25:00&lt;br&gt;库中没有pbd-513的磁力链接&lt;br&gt;ID pbd-512 已存在，跳过网页获取&lt;br&gt;ID pbd-512 已存在，从数据库获取&lt;br&gt;库中没有kwbd-419的磁力链接&lt;br&gt;ID pred-832 已存在，跳过网页获取&lt;br&gt;ID pred-832 已存在，从数据库获取&lt;br&gt;库中没有pbd-510的磁力链接&lt;br&gt;ID prvr-086 已存在，跳过网页获取&lt;br&gt;ID prvr-086 已存在，从数据库获取&lt;br&gt;ID pred-828 已存在，跳过网页获取&lt;br&gt;ID pred-828 已存在，从数据库获取&lt;br&gt;库中没有pbd-508的磁力链接&lt;br&gt;ID prvr-084 已存在，跳过网页获...&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;pornlog_18566.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 07:45:01&lt;br&gt;库中没有snos-168的磁力链接&lt;br&gt;库中没有ofje-701的磁力链接&lt;br&gt;库中没有ofje-617的磁力链接&lt;br&gt;库中没有ofje-615的磁力链接&lt;br&gt;ID ofje-614 已存在，跳过网页获取&lt;br&gt;ID ofje-614 已存在，从数据库获取&lt;br&gt;库中没有ofje-708的磁力链接&lt;br&gt;库中没有ofje-611的磁力链接&lt;br&gt;库中没有rbb-330的磁力链接&lt;br&gt;库中没有ofje-603的磁力链接&lt;br&gt;库中没有ofje-602的磁力链接&lt;br&gt;库中没有ofje-606的磁力链接&lt;br&gt;ID snos-056 已存在，跳过网页获取&lt;br&gt;ID snos-056 已存在，从数据库获取&lt;br&gt;库...&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;pornlog_18787.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 08:05:00&lt;br&gt;ID ipzz-802 已存在，跳过网页获取&lt;br&gt;ID ipzz-802 已存在，从数据库获取&lt;br&gt;库中没有ipok-013的磁力链接&lt;br&gt;库中没有rbb-330的磁力链接&lt;br&gt;ID ipzz-778 已存在，跳过网页获取&lt;br&gt;ID ipzz-778 已存在，从数据库获取&lt;br&gt;ID ipok-010 已存在，跳过网页获取&lt;br&gt;ID ipok-010 已存在，从数据库获取&lt;br&gt;库中没有ipok-009的磁力链接&lt;br&gt;库中没有ipvr-367的磁力链接&lt;br&gt;ID ipzz-703 已存在，跳过网页获取&lt;br&gt;ID ipzz-703 已存在，从数据库获取&lt;br&gt;库中没有ipok-006的磁力链接...&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;pornlog_19302.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 08:25:01&lt;br&gt;库中没有snos-136的磁力链接&lt;br&gt;库中没有ofje-701的磁力链接&lt;br&gt;库中没有ofje-617的磁力链接&lt;br&gt;库中没有ofje-615的磁力链接&lt;br&gt;ID ofje-614 已存在，跳过网页获取&lt;br&gt;ID ofje-614 已存在，从数据库获取&lt;br&gt;库中没有ofje-611的磁力链接&lt;br&gt;ID snos-084 已存在，跳过网页获取&lt;br&gt;ID snos-084 已存在，从数据库获取&lt;br&gt;库中没有ofje-603的磁力链接&lt;br&gt;库中没有ofje-602的磁力链接&lt;br&gt;库中没有ofje-606的磁力链接&lt;br&gt;ID sivr-468 已存在，跳过网页获取&lt;br&gt;ID sivr-468 已...&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;pornlog_50973.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 08:45:00&lt;br&gt;库中没有thn-008的磁力链接&lt;br&gt;ID abf-323 已存在，跳过网页获取&lt;br&gt;ID abf-323 已存在，从数据库获取&lt;br&gt;ID rebd-1013 已存在，跳过网页获取&lt;br&gt;ID rebd-1013 已存在，从数据库获取&lt;br&gt;库中没有thn-006的磁力链接&lt;br&gt;ID abf-312 已存在，跳过网页获取&lt;br&gt;ID abf-312 已存在，从数据库获取&lt;br&gt;ID ppr-001 已存在，跳过网页获取&lt;br&gt;ID ppr-001 已存在，从数据库获取&lt;br&gt;ID abf-301 已存在，跳过网页获取&lt;br&gt;ID abf-301 已存在，从数据库获取&lt;br&gt;库中没有thn-003的磁力...&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;pornlog_53936.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 09:05:01&lt;br&gt;库中没有ofje-701的磁力链接&lt;br&gt;库中没有ofje-617的磁力链接&lt;br&gt;库中没有ofje-615的磁力链接&lt;br&gt;ID snos-141 已存在，跳过网页获取&lt;br&gt;ID snos-141 已存在，从数据库获取&lt;br&gt;ID ofje-614 已存在，跳过网页获取&lt;br&gt;ID ofje-614 已存在，从数据库获取&lt;br&gt;库中没有ofje-708的磁力链接&lt;br&gt;库中没有ofje-611的磁力链接&lt;br&gt;库中没有rbb-330的磁力链接&lt;br&gt;库中没有ofje-603的磁力链接&lt;br&gt;库中没有ofje-602的磁力链接&lt;br&gt;库中没有ofje-606的磁力链接&lt;br&gt;ID rebd-1007 已存在，跳过...&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;pornlog_54829.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 09:55:01&lt;br&gt;ID mida-559 已存在，跳过网页获取&lt;br&gt;ID mida-559 已存在，从数据库获取&lt;br&gt;ID fway-089 已存在，跳过网页获取&lt;br&gt;ID fway-089 已存在，从数据库获取&lt;br&gt;ID mizd-520 已存在，跳过网页获取&lt;br&gt;ID mizd-520 已存在，从数据库获取&lt;br&gt;库中没有mizd-521的磁力链接&lt;br&gt;库中没有mizd-517的磁力链接&lt;br&gt;ID mida-518 已存在，跳过网页获取&lt;br&gt;ID mida-518 已存在，从数据库获取&lt;br&gt;ID mdvr-398 已存在，跳过网页获取&lt;br&gt;ID mdvr-398 已存在，从数据库获取&lt;br&gt;库中没有mi...&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;pornlog_56837.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 09:25:01&lt;br&gt;库中没有snos-151的磁力链接&lt;br&gt;库中没有ofje-701的磁力链接&lt;br&gt;库中没有ofje-617的磁力链接&lt;br&gt;ID snos-118 已存在，跳过网页获取&lt;br&gt;ID snos-118 已存在，从数据库获取&lt;br&gt;库中没有ofje-603的磁力链接&lt;br&gt;库中没有ofje-602的磁力链接&lt;br&gt;库中没有ofje-606的磁力链接&lt;br&gt;ID sivr-463 已存在，跳过网页获取&lt;br&gt;ID sivr-463 已存在，从数据库获取&lt;br&gt;ID snos-099 已存在，跳过网页获取&lt;br&gt;ID snos-099 已存在，从数据库获取&lt;br&gt;库中没有ofje-596的磁力链接&lt;br&gt;连接错误（尝试 ...&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;pornlog_57788.log&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;0&lt;/td&gt;
+                &lt;td&gt;&lt;span style='color: green;'&gt;✅ 全部成功&lt;/span&gt;&lt;/td&gt;
+                &lt;td&gt;自定义格式化： 2026-03-19 09:45:02&lt;br&gt;库中没有ofje-701的磁力链接&lt;br&gt;库中没有ofje-617的磁力链接&lt;br&gt;连接错误（尝试 1/3）：https://jav98.xyz/v/538488&lt;br&gt;库中没有ofje-615的磁力链接&lt;br&gt;ID snos-106 已存在，跳过网页获取&lt;br&gt;ID snos-106 已存在，从数据库获取&lt;br&gt;ID ipzz-789 已存在，跳过网页获取&lt;br&gt;ID ipzz-789 已存在，从数据库获取&lt;br&gt;ID ofje-614 已存在，跳过网页获取&lt;br&gt;ID ofje-614 已存在，从数据库获取&lt;br&gt;库中没有ofje-603的磁力链接&lt;br&gt;ID snos-059 已存在，跳过网页获取...&lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+        &lt;p style=&quot;font-size: 0.9em; color: #666;&quot;&gt;报告生成时间：2026-03-19 13:34:45&lt;/p&gt;
+    &lt;/div&gt;
+    ]]&gt;</description>
     </item>
   </channel>
 </rss>
